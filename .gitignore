@@ -1,0 +1,7 @@
+db.php
+vendor/
+.DS_Store
+Thumbs.db
+*.log
+tmp/
+.idea/

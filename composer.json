@@ -1,0 +1,15 @@
+{
+    "name": "sarahzull/e-certificate-php",
+    "description": "A PHP project to generate e-certificates and convert HTML to PDF.",
+    "type": "project",
+    "require": {
+        "dompdf/dompdf": "^3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sarah"
+        }
+    ],
+    "minimum-stability": "stable"
+}
